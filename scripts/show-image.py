@@ -20,4 +20,4 @@ cv2.waitKey(0)
 
 # Save the image -- OpenCV handles converting filetypes
 # automatically
-cv2.imwrite("newimage.jpg", image)
+cv2.imwrite("newimage1.jpg", image)
